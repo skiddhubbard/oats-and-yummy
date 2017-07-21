@@ -1,6 +1,6 @@
 <?php echo $recipe_styles;
-$instagram_handle = ''; //add your instagram handle between the quotes to activate the footer area with instagram info
-$instagram_hashtag = ''; //you'll also need to add a hashtag between these quotes
+$instagram_handle = 'oatsandyummy'; //add your instagram handle between the quotes to activate the footer area with instagram info
+$instagram_hashtag = 'oatsandyummy'; //you'll also need to add a hashtag between these quotes
 ?>
 
 <header class="tasty-recipes-entry-header">
